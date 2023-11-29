@@ -1,0 +1,41 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/balus/Documents/Unreal Projects/enhanceInput_Balus/Content/mojeBlueprinty/BP_Kniha.uasset",
+				"C:/Users/balus/Documents/Unreal Projects/enhanceInput_Balus/Content/mojeBlueprinty/Kniha.uasset",
+				"C:/Users/balus/Documents/Unreal Projects/enhanceInput_Balus/Content/mojeBlueprinty/WB_Default.uasset",
+				"C:/Users/balus/Documents/Unreal Projects/enhanceInput_Balus/Content/mojeBlueprinty/BP_Pickable.uasset",
+				"C:/Users/balus/Documents/Unreal Projects/enhanceInput_Balus/Content/mojeBlueprinty/WB_Kniha.uasset",
+				"C:/Users/balus/Documents/Unreal Projects/enhanceInput_Balus/Content/mojeBlueprinty/BP_Kniha_LoremIpsum.uasset",
+				"C:/Users/balus/Documents/Unreal Projects/enhanceInput_Balus/Content/mojeBlueprinty/BP_Kniha_neconeco.uasset",
+				"C:/Users/balus/Documents/Unreal Projects/enhanceInput_Balus/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/E4/PZF5VH3N3E25KHF2R1ORIB.uasset",
+				"C:/Users/balus/Documents/Unreal Projects/enhanceInput_Balus/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/PY/0436TBQ6LPD16M4KW6C1NU.uasset",
+				"C:/Users/balus/Documents/Unreal Projects/enhanceInput_Balus/Content/mojeBlueprinty/BP_Kniha_unlimited.uasset",
+				"C:/Users/balus/Documents/Unreal Projects/enhanceInput_Balus/Content/mojeBlueprinty/BP_Kniha_onlyonce.uasset",
+				"C:/Users/balus/Documents/Unreal Projects/enhanceInput_Balus/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/balus/Documents/Unreal Projects/enhanceInput_Balus/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/IR/R38DL91ZNSX613DHY60SOK.uasset",
+				"C:/Users/balus/Documents/Unreal Projects/enhanceInput_Balus/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/J6/JKNGZ1DLL8X7UYV85Q5GHZ.uasset",
+				"C:/Users/balus/Documents/Unreal Projects/enhanceInput_Balus/Content/mojeBlueprinty/BP_Unpickable.uasset",
+				"C:/Users/d.balus.st/Documents/Unreal Projects/enhanceInput_Balus/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"C:/Users/d.balus.st/Documents/Unreal Projects/enhanceInput_Balus/Content/mojeBlueprinty/IA_Interact.uasset",
+				"C:/Users/d.balus.st/Documents/Unreal Projects/enhanceInput_Balus/Content/mojeBlueprinty/IMC_Interact.uasset",
+				"C:/Users/d.balus.st/Documents/Unreal Projects/enhanceInput_Balus/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/d.balus.st/Documents/Unreal Projects/enhanceInput_Balus/Content/mojeBlueprinty/BPI_Pickable.uasset",
+				"C:/Users/d.balus.st/Documents/Unreal Projects/enhanceInput_Balus/Content/mojeBlueprinty/BPI_Unpickable.uasset",
+				"C:/Users/d.balus.st/Documents/Unreal Projects/enhanceInput_Balus/Content/mojeBlueprinty/BP_Pickable.uasset",
+				"C:/Users/d.balus.st/Documents/Unreal Projects/enhanceInput_Balus/Content/mojeBlueprinty/BP_Unpickable.uasset",
+				"C:/Users/d.balus.st/Documents/Unreal Projects/enhanceInput_Balus/Content/mojeBlueprinty/IA_Close.uasset",
+				"C:/Users/d.balus.st/Documents/Unreal Projects/enhanceInput_Balus/Content/mojeBlueprinty/Kniha.uasset",
+				"C:/Users/d.balus.st/Documents/Unreal Projects/enhanceInput_Balus/Content/mojeBlueprinty/WB_Default.uasset",
+				"C:/Users/d.balus.st/Documents/Unreal Projects/enhanceInput_Balus/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7E/BEYC27T14FHBU6LF2F60RR.uasset",
+				"C:/Users/d.balus.st/Documents/Unreal Projects/enhanceInput_Balus/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HL/XWFFRCIJ8QK4NRO30ALA6J.uasset",
+				"C:/Users/d.balus.st/Documents/Unreal Projects/enhanceInput_Balus/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG.uasset",
+				"C:/Users/d.balus.st/Documents/Unreal Projects/enhanceInput_Balus/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/MD/ABR8WTFYQRX1X86O7U9MOT.uasset"
+			]
+		}
+	]
+}
